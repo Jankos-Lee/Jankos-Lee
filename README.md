@@ -1,9 +1,14 @@
-<h1>Hey! Nice to see u</h1>
-- 👋 Hi, I’m liyang
-- 👀 I’m interested in hihop
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on React.js
-- 📫 How to reach me ...
+<h1 align="center">😎 Hey! Nice to see you.</h1> 
+
+Welcome to my page!
+
+I'm Jankos,Frontend developer from 🍋AnYue，China,crurrently living in ChengDu.
+
+
+
+Things I code with
+
+![https://img.shields.io/badge/-react-blue?logo=react]()
 
 <!---
 liyangIsDSG/liyangIsDSG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
